@@ -1,6 +1,3 @@
-#https://www.youtube.com/watch?v=jztwpsIzEGc 
-#Youtube tutorial
-
 import tensorflow as tf
 import os 
 import numpy as np
